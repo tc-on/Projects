@@ -13,6 +13,8 @@ Eligible measures include building shell measures, such as air sealing and insul
 
 -	The accuracy of the Estimated Annual kWh Savings and Estimated Annual MMBtu Savings for projects has been evaluated by an independent third party. The results of the impact analysis indicate that, on average, actual savings amount to 35 percent of the Estimated Annual kWh Savings and 65 percent of the Estimated Annual MMBtu Savings.
 
+- Analysis Type: Regression
+
 ## Project Statement
 
 The project tries to identify the different means by which home owners and contractors in the state of New York are incentivized to use and provide energy efficient methods through the program administered by the NYSERDA. The purpose of the project is to create a clear picture of how to develop cost effective solutions and methods to incentivize contractors and home owners to build energy efficient systems for heating in the State of New York.
